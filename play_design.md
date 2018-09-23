@@ -47,4 +47,91 @@
 本人愚钝，只能想到此想法；
 
 
+English :
+Hello, players. Next, we will introduce the game of alliance.
+
+
+
+What is League warfare? There are two modes of alliance warfare: the first is to confront the alliance with the alliance, that is, each alliance plays Britain, or Germany, or the United States, or France, or Italy, or the Soviet Union; the last is to judge 1, 2, 3 by the number of cities occupied; the second is to confront the alliance with the alliance: Britain, the United States, the Soviet Union against Germany, Italy, France. Judging by the total number of occupying the total number of cities, the victory award will be divided equally into three three victory camps.
+
+
+
+
+Q: how can we decide if the number of cities occupied is the same?
+
+Answer: I divide the city into three categories: the capital, the big city, the stronghold; each type of city has its own resources, if the number of cities occupied is the same, it will be judged according to the prosperity of the city.
+
+
+
+Q: how to play?
+
+Answer: In the beginning, each alliance has its own capital, three big cities, three strongholds as a base, each alliance has its own initial capital is not occupied, the alliance members of the forces will all gather in the capital before the beginning of the alliance; after the beginning of the alliance can move; hope players use strategy Win the victory;
+
+
+
+Naval Warfare: (1) in naval warfare, land forces can not fight.
+
+(2) When the fleet destroys the last force on land, the fleet can not occupy the area and needs to send land troops to occupy it.
+
+(3) the players' fleet is stationed in the capital at the beginning stage and can enter the sea area operations after it begins.
+
+(4) What if the waters around you are occupied (sea blockade), concentrate land forces, the capital's fleet, and strike the enemy at sea
+
+(5) the troops in big cities will trigger double damage when attacking enemy fleets; otherwise, they will not be effective.
+
+(6) stay away from your natural enemies.
+
+
+
+Air combat: (1) When carrying out air strikes, it is necessary to see if there is an air strike nearby, if not, it will not trigger?
+
+(2) only the capital can be stationed in the air force.
+
+(3) the air force is attacking -10% in the big cities; when it attacks the capital forces, it is -20%.
+
+(4) harm the +20% to the land forces stationed in the strongholds, and to the fleet +10%.
+
+(5) air raid range: 3 grids
+
+(6) stay away from your natural enemies.
+
+(7) you cannot fight back when you are attacked by land forces (unless special fighters).
+
+
+
+
+Land: (1) land forces can occupy empty strongholds, empty big cities and empty capitals.
+
+(2) when attacking big cities: + 10%; capital +20%;
+
+(3) stay away from your natural enemies.
+
+(4) when you attack the capital, you can only attack the air forces if you destroy the land forces.
+
+
+
+Alliance member attributes: (1) Each alliance member has 1000 durability, 100 replenishment, 50 replenishment every 10 minutes, 10 replenishment
+
+(2) Each active battle consumes 5 manoeuvres; if the battle succeeds, it reduces the endurance by 50 points; if it fails, it reduces the endurance by 100 points.
+
+(3) consumes a little supply per move.
+
+(4) when the durability is 0, it will automatically return to the union capital to rest until the attack is not 0.
+
+(5) The awards for the league's victory will be distributed according to the degree of contribution, that is, the greater the contribution, the more awards the League will receive.
+
+(6) Contribution: Failure + 0; Victory + 30; Occupy stronghold + 50; Occupy big city + 150; Occupy capital + 500;
+
+
+
+
+Map: https://github.com/anleiJ/Graduation-design---Product/blob/master/%E7%8E%A9%E6%B3%95.jpg
+
+
+
+
+
+I am stupid and can only think of this idea.
+
+
 
